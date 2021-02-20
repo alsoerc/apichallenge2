@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: eros.azure.azurechallenge2.Azurechallenge2Application
+
